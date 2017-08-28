@@ -1,0 +1,33 @@
+JavaScript Definitions
+
+1. For Loop is a way to check for a condition many times. So, if something is
+true, do something else. Then add something or subtract something, or multiply
+or divide something to the condition. Repeat again until condition becomes
+false.
+
+2 &&, ||, ! are Boolean symbols for logic operations. && is the AND operator
+and check the condition on the left for truth, and if true checks the condition
+on the right for truth. If the 2 conditions are true the code block can be ran.
+If one or the other are false, the code block will be skipped.
+
+|| is the Boolean OR operator. It checks two or more conditions for truth and
+if one is true, it executes the code block. If both are false is skips the code
+block.
+
+! is the NOT Boolean operator and will confuse you, I promise! It changes the
+condition state to its opposite. So if something test true, the ! will switch it
+to false and vice a verse.
+
+3. Arrays are a way to group a list of objects into one variable memory space.
+Example: `var luckyNumbers = [22, 44, 88, 176];` Use [] to indicate that the
+object is an Array.
+
+4. Git is software that you  install on your computer to manage files in a
+project folder called a Repo or Repository. It is used to collaborate with other
+programmers who are working together on the project. Everyone can have their own
+version, working on their specific section.
+
+5. GitHub is a service for uploading, downloading, and collaborating on projects
+online. It will store the Repo and if you have permissions, you can Fork into
+a project and clone it to your local computer. You can upload changes and ask for
+them to be Merged with the project through a Pull Request.
